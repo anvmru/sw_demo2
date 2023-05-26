@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "ru.anvm.sw_demo2.app-merged_res-20:/drawable-xxxhdpi_splash.png.flat",
+        "source": "ru.anvm.sw_demo2.app-main-14:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\drawable-hdpi_splash.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\drawable-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "ru.anvm.sw_demo2.app-merged_res-20:/drawable-mdpi_splash.png.flat",
+        "source": "ru.anvm.sw_demo2.app-main-14:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "ru.anvm.sw_demo2.app-merged_res-20:/drawable-xhdpi_splash.png.flat",
+        "source": "ru.anvm.sw_demo2.app-main-14:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\drawable-v21_background.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\drawable-v21\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\drawable-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "ru.anvm.sw_demo2.app-merged_res-20:/drawable-hdpi_splash.png.flat",
+        "source": "ru.anvm.sw_demo2.app-main-14:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "ru.anvm.sw_demo2.app-merged_res-20:/drawable-xxhdpi_splash.png.flat",
+        "source": "ru.anvm.sw_demo2.app-main-14:/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\drawable-mdpi_splash.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\drawable-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\drawable-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-merged_res-20:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Max\\.gradle\\daemon\\7.5\\ru.anvm.sw_demo2.app-main-14:\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
